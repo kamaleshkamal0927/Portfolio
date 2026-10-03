@@ -30,7 +30,7 @@ export default function About() {
             <p>
               Software Engineer with a passion for building products that sit at the
               intersection of engineering rigour and thoughtful design. Currently pursuing
-              B.E. Computer Science at Kongu Engineering College.
+              B.E. Computer Science at Sathyabama University.
             </p>
             <p>
               I&apos;ve shipped full-stack apps, trained ML models, and crafted immersive web
