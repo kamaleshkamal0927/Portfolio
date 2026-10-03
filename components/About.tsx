@@ -43,21 +43,21 @@ export default function About() {
             </p>
           </div>
 
-          <div className="mt-8 flex gap-4 flex-wrap">
+          <div className="mt-8 flex flex-col gap-3 sm:flex-row sm:flex-wrap sm:gap-4">
             <a
               href="mailto:kamaleshperz1708gmail.com"
-              className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full text-sm font-medium text-black bg-[var(--accent)] hover:opacity-90 transition-opacity"
+              className="inline-flex w-full items-center justify-center gap-2 px-5 py-2.5 rounded-full text-sm font-medium text-black bg-[var(--accent)] hover:opacity-90 transition-opacity sm:w-auto"
             >
               Get in touch ↗
             </a>
             <a
-              href="/resume.pdf"
+              href="https://drive.google.com/uc?export=download&id=1NyqGwgZSDCKzFkRByoG9sK541c6ltDHy"
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full text-sm font-medium text-white/70 hover:text-white transition-colors"
+              className="inline-flex w-full items-center justify-center gap-2 px-5 py-2.5 rounded-full text-sm font-medium text-white/70 hover:text-white transition-colors sm:w-auto"
               style={{ border: "1px solid rgba(255,255,255,0.15)" }}
             >
-              Download CV
+              Download Resume
             </a>
           </div>
         </motion.div>

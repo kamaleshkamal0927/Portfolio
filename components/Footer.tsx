@@ -30,10 +30,10 @@ export default function Footer() {
           </p>
 
           <a
-            href="Mail to:kamaleshperz1708gmail.com"
+            href="mailto:kamaleshperz1708@gmail.com"
             className="inline-block px-8 py-4 rounded-full text-black bg-[var(--accent)] font-semibold text-base hover:scale-105 transition-transform duration-300"
           >
-            kamaleshperz1708gmail.com
+            kamaleshperz1708@gmail.com
           </a>
         </motion.div>
 
@@ -44,7 +44,7 @@ export default function Footer() {
             {[
               { label: "GitHub", href: "https://github.com/kamaleshkamal0927" },
               { label: "LinkedIn", href: "https://www.linkedin.com/in/kamalesh-g-291b89265/" },
-              { label: "Instagram", href: "https://www.instagram.com/_.kamalesh._._?stkn=MXNvbDBod21uZDhjOA%3D%3D&utm_source=qr" },
+              { label: "Mobile", href: "tel:+919940151335" },
             ].map((link) => (
               <a
                 key={link.label}

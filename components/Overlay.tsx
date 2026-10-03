@@ -68,7 +68,7 @@ export default function Overlay({
       content: (
         <div>
           <p className="text-[10px] tracking-[0.4em] uppercase text-[#c8f542] mb-3 font-medium">
-            Portfolio · 2024
+            Portfolio · 2026
           </p>
           <h1 className="text-6xl md:text-8xl lg:text-9xl font-black leading-none tracking-tighter text-white mix-blend-difference">
             Kamalesh G.

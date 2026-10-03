@@ -9,7 +9,7 @@ const projects = [
     description:
       "Snap-to-nutrition app leveraging computer vision and a custom ML model to identify food items and return macro breakdowns in real time.",
     stack: ["React Native", "Python", "FastAPI", "TensorFlow"],
-    year: "2024",
+    year: "2026",
     accent: "#c8f542",
   },
   {
@@ -18,7 +18,7 @@ const projects = [
     description:
       "Personal health dashboard that aggregates wearable data, lab results and doctor notes into a single privacy-first timeline.",
     stack: ["Next.js", "TypeScript", "Prisma", "PostgreSQL"],
-    year: "2024",
+    year: "2025",
     accent: "#42d4f4",
   },
   {
@@ -27,16 +27,16 @@ const projects = [
     description:
       "High-fidelity animated Pokédex PWA with instant search, type filtering, and silky 60 fps card-flip transitions.",
     stack: ["Next.js", "Framer Motion", "PokéAPI", "Tailwind"],
-    year: "2024",
+    year: "2026",
     accent: "#f4a142",
   },
   {
-    title: "Portfolio v2",
+    title: "E-commerce",
     category: "Creative Dev",
     description:
       "The site you're looking at — scroll-linked canvas animation, parallax overlays, and hand-crafted motion design.",
     stack: ["Next.js 14", "Framer Motion", "Canvas API", "Tailwind"],
-    year: "2024",
+    year: "2025",
     accent: "#c842f4",
   },
 ];
