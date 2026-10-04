@@ -29,7 +29,7 @@ export default function About() {
           <div className="space-y-4 text-white/55 leading-relaxed text-base">
             <p>
               Software Engineer with a passion for building products that sit at the
-              intersection of engineering rigour and thoughtful design. Currently pursuing
+              intersection of engineering rigour and thoughtful design. Completed 
               B.E. Computer Science at Sathyabama University.
             </p>
             <p>
